@@ -63,3 +63,4 @@ Werkzeug==0.14.1
 wincertstore==0.2
 WTForms==2.1
 xlrd==1.2.0
+uwsgi
