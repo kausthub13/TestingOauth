@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\KK\Downloads\Compressed\udemy-flask-python-bootcamp-master\udemy-flask-python-bootcamp-master\07-User-Authentication\02-Using-Flask-OAuth\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
